@@ -84,9 +84,9 @@ Personalised Expense Tracker
 
 ## 👨‍💻 Author
 
-**Rajashri Mali**
+Sujata Lokare
 
-* GitHub: [https://github.com/rjshri25](https://github.com/rjshri25)
+
 
 
 Give it a ⭐ on GitHub — it motivates me to build more!
